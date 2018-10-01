@@ -1,4 +1,4 @@
-# react example
+# react + typescript example
 
 This application shows how to setup react + typescript using webpack 4 and babel 7
 
